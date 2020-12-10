@@ -1,4 +1,4 @@
-### Hi there, I'm Hunter [website] 👋
+### Hi there, I'm Hunter [Portfolio] 👋
 
 [![Website](https://img.shields.io/website?label=Hunterfoulk.com&style=for-the-badge&url=https%3A%2F%2Fhunterfoulk.com)](https://hunterfoulk.com)
 
@@ -49,13 +49,13 @@
 
 ---
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hunterfoulk&show_icons=true&hide_border=true" />
 
-</details>
 
-[website]: https://hunterfoulk.com
+
+[Portfolio]: https://hunterfoulk.com
 [youtube]: https://www.youtube.com/channel/UCPA_sNlX4p4TgYr6HQFqbJA
 [linkedin]: https://linkedin.com/in/hunterfoulk
