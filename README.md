@@ -52,7 +52,9 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hunterfoulk&show_icons=true&hide_border=true" />
+   <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunterfoulk&hide=html,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=5" />
+
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=hunterfoulk&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
 
 
 
