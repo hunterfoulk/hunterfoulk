@@ -1,5 +1,6 @@
 
-(https://imgur.com/ygKzagC)
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://imgur.com/ygKzagC" />]
 
 ### Hi there, I'm Hunter [Portfolio] 👋
 
