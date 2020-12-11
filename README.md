@@ -1,5 +1,5 @@
 
-  <img alt="Samyo's Gmail" width="200px" src="https://imgur.com/ygKzagC" />
+  <img alt="Samyo's Gmail" width="250px" src="https://i.imgur.com/ygKzagC.png" />
 
 ### Hi there, I'm Hunter [Portfolio] 👋
 
