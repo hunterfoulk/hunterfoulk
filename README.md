@@ -1,5 +1,5 @@
 
-[![Header](https://imgur.com/ygKzagC)](https://github.com/hunterfoulk)
+(https://imgur.com/ygKzagC)
 
 ### Hi there, I'm Hunter [Portfolio] 👋
 
