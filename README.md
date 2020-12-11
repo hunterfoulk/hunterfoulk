@@ -1,6 +1,6 @@
 
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://imgur.com/ygKzagC" />]
+[![Header](https://imgur.com/ygKzagC)](https://github.com/hunterfoulk)
 
 ### Hi there, I'm Hunter [Portfolio] 👋
 
@@ -66,5 +66,6 @@
 
 
 [Portfolio]: https://hunterfoulk.com
+[Header]: https://imgur.com/ygKzagC
 [youtube]: https://www.youtube.com/channel/UCPA_sNlX4p4TgYr6HQFqbJA
 [linkedin]: https://linkedin.com/in/hunterfoulk
