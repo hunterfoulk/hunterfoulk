@@ -1,6 +1,5 @@
 
-
-[![Header](https://imgur.com/ygKzagC)](https://github.com/hunterfoulk)
+  <img alt="Samyo's Gmail" width="200px" src="https://imgur.com/ygKzagC" />
 
 ### Hi there, I'm Hunter [Portfolio] 👋
 
