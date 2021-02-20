@@ -47,7 +47,7 @@
 - [FlyChat - Real Time Video Watching & Chatroom](https://hunterfoulk.com/projects/0/)
 - [FlyHost - Share Files & Download Them From The Cloud Across The Web](https://hunterfoulk.com/projects/1/)
 - [Personal Portfolio](https://hunterfoulk.com/)
-- [CompanyBoard - Company Desktop Application For Workflow & Product Progession](https://hunterfoulk.com/projects/2/)
+- [CompanyBoard - Company Desktop Application For Workflow & Product Progression](https://hunterfoulk.com/projects/2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
