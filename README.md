@@ -5,7 +5,7 @@
 
 [![Website](https://img.shields.io/website?label=Hunterfoulk.com&style=for-the-badge&url=https%3A%2F%2Fhunterfoulk.com)](https://hunterfoulk.com)
 
-## I'm a Software Developer with an expertise in Front-end Development.
+## Full Stack Software Developer.
 
 ### Connect with me:
 
