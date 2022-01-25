@@ -40,18 +40,6 @@
 
 ---
 
-### 📕 Latest Projects
-
-<!-- BLOG-POST-LIST:START -->
-
-- [FlyChat - Real Time Video Watching & Chatroom](https://hunterfoulk.com/projects/1/)
-- [SpringBoards - Discuss And Chat With Common Interest People From All Over The World](https://hunterfoulk.com/projects/0/)
-- [Personal Portfolio](https://hunterfoulk.com/)
-- [CompanyBoard - Company Desktop Application For Workflow & Product Progression](https://hunterfoulk.com/projects/2/)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 
   <summary>:zap: GitHub Stats</summary>  
   <br />
