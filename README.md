@@ -1,6 +1,6 @@
 
 
-[![Website](https://img.shields.io/website?label=Hunterfoulk.com&style=for-the-badge&url=https%3A%2F%2Fwww.hunterfoulk.com)](https://hunterfoulk.com)
+<!-- [![Website](https://img.shields.io/website?label=Hunterfoulk.com&style=for-the-badge&url=https%3A%2F%2Fwww.hunterfoulk.com)](https://hunterfoulk.com) -->
 
 ## Full Stack Software Developer.
 
