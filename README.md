@@ -17,10 +17,6 @@
   <br />
 
    
-<p align="left" >
-  <br />
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=hunterfoulk&bg_color=082431&title_color=c0ebf7&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
-</p>
 
 
 [Portfolio]: https://hunterfoulk.com
